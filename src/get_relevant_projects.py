@@ -1,6 +1,6 @@
 from documents import get_job_description, get_projects
 from langchain.prompts import PromptTemplate
-import generate_response as gen_resp
+from generate_response import generate_response
 
 # Get the job description and list of projects
 job_description = get_job_description()
@@ -19,7 +19,7 @@ prompt = PromptTemplate(
     )
 
 # Call the function to generate the content
-relevant_projects = gen_resp.generate_response(
+relevant_projects = generate_response(
     prompt=prompt, 
     input_variables={'job_description': job_description, 'projects': projects}
     )

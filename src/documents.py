@@ -1,9 +1,9 @@
 from docx import Document
 
 # File Paths.
-job_description_file_path = "./job_description.txt"
-resume_file_path = "./resume.docx"
-projects_file_path = "./projects.docx"
+job_description_file_path = "documents/job_description.txt"
+resume_file_path = "documents/resume.docx"
+projects_file_path = "documents/projects.docx"
 
 # Get job description content.
 def get_job_description():
