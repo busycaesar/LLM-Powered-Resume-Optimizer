@@ -1,7 +1,7 @@
 # LLM-Powered Resume Optimizer
 
 ## Description
-LLM-Powered ATS Optimizer is a tool designed to enhance job seekers' resumes by ensuring they achieve high Applicant Tracking System (ATS) scores. Using Large Language Model (LLM), it analyzes job descriptions, aligns resumes, and recommends relevant projects to highlight specific skills. The tool provides a professional summary generator, suggests improvements to boost ATS compatibility, and even crafts tailored cover letters. With a focus on maximizing job application effectiveness, LLM-Powered ATS Optimizer helps users present a polished, optimized profile that aligns closely with target job requirements.
+Developed using **LangChain** and **OpenAI**, this tool is designed to enhance job seekers' resumes and increase their Applicant Tracking System (ATS) scores. Using a **Large Language Model**, it analyzes job descriptions, aligns resumes, and recommends relevant projects to highlight specific skills. The tool also offers a professional summary generator, suggests improvements to boost ATS compatibility, and crafts tailored cover letters. With a focus on maximizing job application effectiveness, it helps users present a polished, optimized profile that aligns closely with target job requirements.
 
 ## Tech Stack
 ![Image Alt](https://skillicons.dev/icons?i=python)
