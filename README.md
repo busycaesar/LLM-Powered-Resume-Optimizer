@@ -1,4 +1,4 @@
-# LLM-Powered Resume Optimizer
+# LLM-Powered Resume Optimizer (Work In Progress)
 
 ## Description
 Developed using **LangChain** and **OpenAI**, this tool is designed to enhance job seekers' resumes and increase their Applicant Tracking System (ATS) scores. Using a **Large Language Model**, it analyzes job descriptions, aligns resumes, and recommends relevant projects to highlight specific skills. The tool also offers a professional summary generator, suggests improvements to boost ATS compatibility, and crafts tailored cover letters. With a focus on maximizing job application effectiveness, it helps users present a polished, optimized profile that aligns closely with target job requirements.
