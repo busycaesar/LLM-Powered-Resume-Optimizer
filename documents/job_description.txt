@@ -1,1 +1,47 @@
-Paste the Job Description here.
+Job Title: Junior Web Developer (React & Node.js)
+
+Location: Toronto, ON
+
+Type: Full-time
+
+About Us:
+XYZ Company is a growing tech company focused on delivering high-quality, user-centered web solutions. We specialize in building responsive and engaging applications that simplify and enhance our users' experiences. Our team values innovation, collaboration, and continuous learning.
+
+Position Summary:
+We are looking for a motivated Junior Web Developer with experience in React and Node.js to join our team. This role involves working closely with our senior developers to design, develop, and maintain scalable web applications. The ideal candidate is passionate about coding, eager to learn, and excited about contributing to a dynamic, fast-paced environment.
+
+Responsibilities:
+
+Collaborate with the development team to create web applications using React and Node.js
+Assist in designing and developing RESTful APIs and microservices
+Write clean, scalable, and well-documented code
+Participate in code reviews, debugging, and troubleshooting
+Help optimize applications for speed, responsiveness, and overall user experience
+Stay updated on emerging trends in front-end and back-end development
+Assist in testing and deploying applications to production
+Qualifications:
+
+Bachelor’s degree in Computer Science, Web Development, or a related field (or equivalent experience)
+1+ years of experience in web development, with a focus on JavaScript, React, and Node.js (internships or personal projects also considered)
+Basic knowledge of HTML, CSS, and JavaScript fundamentals
+Familiarity with Git version control and basic command-line operations
+Understanding of RESTful APIs and client-server interactions
+Basic knowledge of database systems (e.g., MongoDB, MySQL) is a plus
+Good problem-solving skills and attention to detail
+Strong communication and teamwork skills
+Eagerness to learn and adapt to new tools and technologies
+Nice-to-Have:
+
+Experience with UI frameworks like Bootstrap or Tailwind CSS
+Familiarity with state management libraries such as Redux
+Understanding of testing frameworks (Jest, Mocha) and test-driven development (TDD)
+Knowledge of cloud platforms like AWS or Azure is a plus
+What We Offer:
+
+Mentorship from experienced developers
+Opportunities to work on real-world projects
+A supportive and collaborative team culture
+Flexible work hours and a hybrid work environment (if applicable)
+Professional development opportunities and career growth
+To Apply:
+Please submit your resume and a cover letter detailing your experience with React and Node.js. If you have a GitHub profile or a portfolio of relevant projects, feel free to include it with your application.
